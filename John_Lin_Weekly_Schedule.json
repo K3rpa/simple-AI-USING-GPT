@@ -1,0 +1,416 @@
+{
+    "Monday": [
+        {
+            "time": "6:00 - 6:30 AM",
+            "activity": "Wake up, freshen up, and enjoy tea."
+        },
+        {
+            "time": "6:30 - 7:00 AM",
+            "activity": "Simple breakfast and prepare for studies."
+        },
+        {
+            "time": "7:00 - 8:30 AM",
+            "activity": "Review programming notes and assignments."
+        },
+        {
+            "time": "8:30 - 9:00 AM",
+            "activity": "Relax with tea, check news or hobbies."
+        },
+        {
+            "time": "9:00 - 12:00 PM",
+            "activity": "Attend Computer Science class."
+        },
+        {
+            "time": "12:00 - 12:30 PM",
+            "activity": "Lunch, experiment with a simple recipe."
+        },
+        {
+            "time": "12:30 - 1:00 PM",
+            "activity": "Relax and sip tea."
+        },
+        {
+            "time": "1:00 - 2:00 PM",
+            "activity": "Prep for the next class, light reading."
+        },
+        {
+            "time": "2:00 - 4:00 PM",
+            "activity": "Attend Mathematics lecture."
+        },
+        {
+            "time": "4:00 - 5:00 PM",
+            "activity": "Lab exercises or team project work."
+        },
+        {
+            "time": "5:00 - 6:00 PM",
+            "activity": "Prepare dinner, explore new dishes."
+        },
+        {
+            "time": "6:00 - 6:30 PM",
+            "activity": "Dinner with tea."
+        },
+        {
+            "time": "6:30 - 8:00 PM",
+            "activity": "Play video games with online friends."
+        },
+        {
+            "time": "8:00 - 9:00 PM",
+            "activity": "Review notes and tasks from the day."
+        },
+        {
+            "time": "9:00 - 10:00 PM",
+            "activity": "Relax with anime or videos."
+        },
+        {
+            "time": "10:00 - 10:30 PM",
+            "activity": "Sip tea, reflect on the day."
+        },
+        {
+            "time": "10:30 PM - 6:00 AM",
+            "activity": "Sleep."
+        }
+    ],
+    "Tuesday": [
+        {
+            "time": "6:00 - 6:30 AM",
+            "activity": "Wake up, freshen up, and enjoy tea."
+        },
+        {
+            "time": "6:30 - 7:00 AM",
+            "activity": "Breakfast, check schedule for the day."
+        },
+        {
+            "time": "7:00 - 8:30 AM",
+            "activity": "Study for upcoming tests or assignments."
+        },
+        {
+            "time": "8:30 - 9:00 AM",
+            "activity": "Short walk or tea time for relaxation."
+        },
+        {
+            "time": "9:00 - 12:00 PM",
+            "activity": "Attend Algorithms and Data Structures."
+        },
+        {
+            "time": "12:00 - 12:30 PM",
+            "activity": "Lunch, light reading."
+        },
+        {
+            "time": "12:30 - 2:00 PM",
+            "activity": "Prepare notes and complete assignments."
+        },
+        {
+            "time": "2:00 - 4:00 PM",
+            "activity": "Review programming exercises."
+        },
+        {
+            "time": "4:00 - 6:00 PM",
+            "activity": "Attend Language Arts class."
+        },
+        {
+            "time": "6:00 - 7:00 PM",
+            "activity": "Dinner, experiment with simple dishes."
+        },
+        {
+            "time": "7:00 - 8:30 PM",
+            "activity": "Light gaming session or reading."
+        },
+        {
+            "time": "8:30 - 9:30 PM",
+            "activity": "Review class materials and tasks."
+        },
+        {
+            "time": "9:30 - 10:30 PM",
+            "activity": "Relax with tea or a calming activity."
+        },
+        {
+            "time": "10:30 PM - 6:00 AM",
+            "activity": "Sleep."
+        }
+    ],
+    "Wednesday": [
+        {
+            "time": "6:00 - 6:30 AM",
+            "activity": "Wake up, freshen up, and enjoy tea."
+        },
+        {
+            "time": "6:30 - 7:00 AM",
+            "activity": "Breakfast, prep for the day."
+        },
+        {
+            "time": "7:00 - 8:30 AM",
+            "activity": "Programming project or lab work."
+        },
+        {
+            "time": "8:30 - 9:00 AM",
+            "activity": "Relax with tea, check updates."
+        },
+        {
+            "time": "9:00 - 12:00 PM",
+            "activity": "Attend Computer Science class."
+        },
+        {
+            "time": "12:00 - 12:30 PM",
+            "activity": "Lunch, experiment with a new recipe."
+        },
+        {
+            "time": "12:30 - 2:00 PM",
+            "activity": "Self-study, revise notes."
+        },
+        {
+            "time": "2:00 - 4:00 PM",
+            "activity": "Attend Mathematics lecture."
+        },
+        {
+            "time": "4:00 - 5:00 PM",
+            "activity": "Review coding assignments."
+        },
+        {
+            "time": "5:00 - 6:00 PM",
+            "activity": "Prepare and enjoy a creative dinner."
+        },
+        {
+            "time": "6:00 - 7:00 PM",
+            "activity": "Light gaming session with tea."
+        },
+        {
+            "time": "7:00 - 8:30 PM",
+            "activity": "Deep dive into a hobby or programming."
+        },
+        {
+            "time": "8:30 - 9:30 PM",
+            "activity": "Finalize assignments or notes."
+        },
+        {
+            "time": "9:30 - 10:30 PM",
+            "activity": "Relax with anime or videos."
+        },
+        {
+            "time": "10:30 PM - 6:00 AM",
+            "activity": "Sleep."
+        }
+    ],
+    "Thursday": [
+        {
+            "time": "6:00 - 6:30 AM",
+            "activity": "Wake up, freshen up, and enjoy tea."
+        },
+        {
+            "time": "6:30 - 7:00 AM",
+            "activity": "Breakfast, plan the day."
+        },
+        {
+            "time": "7:00 - 8:30 AM",
+            "activity": "Study new algorithms or data structures."
+        },
+        {
+            "time": "8:30 - 9:00 AM",
+            "activity": "Relaxation with tea or hobbies."
+        },
+        {
+            "time": "9:00 - 12:00 PM",
+            "activity": "Attend Algorithms and Data Structures."
+        },
+        {
+            "time": "12:00 - 12:30 PM",
+            "activity": "Lunch, enjoy light music."
+        },
+        {
+            "time": "12:30 - 2:00 PM",
+            "activity": "Review and organize notes."
+        },
+        {
+            "time": "2:00 - 4:00 PM",
+            "activity": "Light programming tasks or group work."
+        },
+        {
+            "time": "4:00 - 6:00 PM",
+            "activity": "Attend Language Arts class."
+        },
+        {
+            "time": "6:00 - 7:00 PM",
+            "activity": "Dinner and unwind with a favorite show."
+        },
+        {
+            "time": "7:00 - 8:30 PM",
+            "activity": "Gaming or creative cooking experiments."
+        },
+        {
+            "time": "8:30 - 9:30 PM",
+            "activity": "Evening review or brainstorming."
+        },
+        {
+            "time": "9:30 - 10:30 PM",
+            "activity": "Relax with tea or creative reading."
+        },
+        {
+            "time": "10:30 PM - 6:00 AM",
+            "activity": "Sleep."
+        }
+    ],
+    "Friday": [
+        {
+            "time": "6:00 - 6:30 AM",
+            "activity": "Wake up, freshen up, and enjoy tea."
+        },
+        {
+            "time": "6:30 - 7:00 AM",
+            "activity": "Breakfast, light reading."
+        },
+        {
+            "time": "7:00 - 8:30 AM",
+            "activity": "Prepare for final classes or projects."
+        },
+        {
+            "time": "8:30 - 9:00 AM",
+            "activity": "Tea time and relaxing activities."
+        },
+        {
+            "time": "9:00 - 12:00 PM",
+            "activity": "Attend final lectures for the week."
+        },
+        {
+            "time": "12:00 - 12:30 PM",
+            "activity": "Lunch, unwind with a favorite dish."
+        },
+        {
+            "time": "12:30 - 2:00 PM",
+            "activity": "Prep for weekend tasks or self-study."
+        },
+        {
+            "time": "2:00 - 4:00 PM",
+            "activity": "Attend Mathematics lecture."
+        },
+        {
+            "time": "4:00 - 5:00 PM",
+            "activity": "Wrap up weekly assignments."
+        },
+        {
+            "time": "5:00 - 6:00 PM",
+            "activity": "Dinner and reflection on the week."
+        },
+        {
+            "time": "6:00 - 8:00 PM",
+            "activity": "Gaming or unwinding with a show."
+        },
+        {
+            "time": "8:00 - 9:30 PM",
+            "activity": "Organize notes and weekend plans."
+        },
+        {
+            "time": "9:30 - 10:30 PM",
+            "activity": "Relax with tea or hobbies."
+        },
+        {
+            "time": "10:30 PM - 6:00 AM",
+            "activity": "Sleep."
+        }
+    ],
+    "Saturday": [
+        {
+            "time": "7:00 - 7:30 AM",
+            "activity": "Wake up, enjoy a slower morning with tea."
+        },
+        {
+            "time": "7:30 - 8:30 AM",
+            "activity": "Make a special breakfast, like pancakes."
+        },
+        {
+            "time": "8:30 - 10:00 AM",
+            "activity": "Play video games or explore a new hobby."
+        },
+        {
+            "time": "10:00 - 12:00 PM",
+            "activity": "Work on personal coding projects."
+        },
+        {
+            "time": "12:00 - 12:30 PM",
+            "activity": "Lunch with a light and refreshing dish."
+        },
+        {
+            "time": "12:30 - 2:30 PM",
+            "activity": "Go for a drive or explore a scenic route."
+        },
+        {
+            "time": "2:30 - 4:00 PM",
+            "activity": "Watch a favorite series or anime."
+        },
+        {
+            "time": "4:00 - 5:00 PM",
+            "activity": "Experiment with baking or cooking."
+        },
+        {
+            "time": "5:00 - 6:30 PM",
+            "activity": "Prepare a creative dinner and enjoy it."
+        },
+        {
+            "time": "6:30 - 8:00 PM",
+            "activity": "Play video games with friends online."
+        },
+        {
+            "time": "8:00 - 9:30 PM",
+            "activity": "Reflect on the week, organize plans."
+        },
+        {
+            "time": "9:30 - 10:30 PM",
+            "activity": "Relax with tea or light reading."
+        },
+        {
+            "time": "10:30 PM - 7:00 AM",
+            "activity": "Sleep."
+        }
+    ],
+    "Sunday": [
+        {
+            "time": "7:00 - 7:30 AM",
+            "activity": "Wake up, enjoy tea and relax."
+        },
+        {
+            "time": "7:30 - 8:30 AM",
+            "activity": "Make a simple breakfast."
+        },
+        {
+            "time": "8:30 - 10:00 AM",
+            "activity": "Review notes or prep for the upcoming week."
+        },
+        {
+            "time": "10:00 - 12:00 PM",
+            "activity": "Work on fun programming projects."
+        },
+        {
+            "time": "12:00 - 1:00 PM",
+            "activity": "Cook a hearty lunch and enjoy it."
+        },
+        {
+            "time": "1:00 - 3:00 PM",
+            "activity": "Relax with a favorite movie or series."
+        },
+        {
+            "time": "3:00 - 4:30 PM",
+            "activity": "Go for a relaxing drive."
+        },
+        {
+            "time": "4:30 - 6:00 PM",
+            "activity": "Finalize weekly tasks or prep assignments."
+        },
+        {
+            "time": "6:00 - 7:00 PM",
+            "activity": "Prepare and enjoy a delicious dinner."
+        },
+        {
+            "time": "7:00 - 8:30 PM",
+            "activity": "Play casual games or chat with friends."
+        },
+        {
+            "time": "8:30 - 9:30 PM",
+            "activity": "Reflect and write down plans for the week."
+        },
+        {
+            "time": "9:30 - 10:30 PM",
+            "activity": "Relax with tea or read a book."
+        },
+        {
+            "time": "10:30 PM - 7:00 AM",
+            "activity": "Sleep."
+        }
+    ]
+}

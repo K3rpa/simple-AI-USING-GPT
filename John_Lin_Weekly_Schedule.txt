@@ -1,0 +1,137 @@
+
+### John Lin's Weekly Schedule
+
+---
+
+### Monday
+
+| 6:00 - 6:30 AM | Wake up, freshen up, and enjoy tea.        |
+| 6:30 - 7:00 AM | Simple breakfast and prepare for studies.  |
+| 7:00 - 8:30 AM | Review programming notes and assignments.  |
+| 8:30 - 9:00 AM | Relax with tea, check news or hobbies.     |
+| 9:00 - 12:00 PM| Attend Computer Science class.             |
+| 12:00 - 12:30 PM| Lunch, experiment with a simple recipe.   |
+| 12:30 - 1:00 PM | Relax and sip tea.                        |
+| 1:00 - 2:00 PM | Prep for the next class, light reading.    |
+| 2:00 - 4:00 PM | Attend Mathematics lecture.                |
+| 4:00 - 5:00 PM | Lab exercises or team project work.        |
+| 5:00 - 6:00 PM | Prepare dinner, explore new dishes.        |
+| 6:00 - 6:30 PM | Dinner with tea.                          |
+| 6:30 - 8:00 PM | Play video games with online friends.      |
+| 8:00 - 9:00 PM | Review notes and tasks from the day.       |
+| 9:00 - 10:00 PM| Relax with anime or videos.                |
+| 10:00 - 10:30 PM| Sip tea, reflect on the day.              |
+| 10:30 PM - 6:00 AM| Sleep.                                  |
+
+---
+
+### Tuesday
+
+| 6:00 - 6:30 AM | Wake up, freshen up, and enjoy tea.        |
+| 6:30 - 7:00 AM | Breakfast, check schedule for the day.     |
+| 7:00 - 8:30 AM | Study for upcoming tests or assignments.   |
+| 8:30 - 9:00 AM | Short walk or tea time for relaxation.     |
+| 9:00 - 12:00 PM| Attend Algorithms and Data Structures.     |
+| 12:00 - 12:30 PM| Lunch, light reading.                     |
+| 12:30 - 2:00 PM | Prepare notes and complete assignments.   |
+| 2:00 - 4:00 PM | Review programming exercises.              |
+| 4:00 - 6:00 PM | Attend Language Arts class.                |
+| 6:00 - 7:00 PM | Dinner, experiment with simple dishes.     |
+| 7:00 - 8:30 PM | Light gaming session or reading.           |
+| 8:30 - 9:30 PM | Review class materials and tasks.          |
+| 9:30 - 10:30 PM| Relax with tea or a calming activity.      |
+| 10:30 PM - 6:00 AM| Sleep.                                  |
+
+---
+
+### Wednesday
+
+| 6:00 - 6:30 AM | Wake up, freshen up, and enjoy tea.        |
+| 6:30 - 7:00 AM | Breakfast, prep for the day.               |
+| 7:00 - 8:30 AM | Programming project or lab work.           |
+| 8:30 - 9:00 AM | Relax with tea, check updates.             |
+| 9:00 - 12:00 PM| Attend Computer Science class.             |
+| 12:00 - 12:30 PM| Lunch, experiment with a new recipe.      |
+| 12:30 - 2:00 PM | Self-study, revise notes.                 |
+| 2:00 - 4:00 PM | Attend Mathematics lecture.                |
+| 4:00 - 5:00 PM | Review coding assignments.                 |
+| 5:00 - 6:00 PM | Prepare and enjoy a creative dinner.       |
+| 6:00 - 7:00 PM | Light gaming session with tea.             |
+| 7:00 - 8:30 PM | Deep dive into a hobby or programming.     |
+| 8:30 - 9:30 PM | Finalize assignments or notes.             |
+| 9:30 - 10:30 PM| Relax with anime or videos.                |
+| 10:30 PM - 6:00 AM| Sleep.                                  |
+
+---
+
+### Thursday
+
+| 6:00 - 6:30 AM | Wake up, freshen up, and enjoy tea.        |
+| 6:30 - 7:00 AM | Breakfast, plan the day.                   |
+| 7:00 - 8:30 AM | Study new algorithms or data structures.   |
+| 8:30 - 9:00 AM | Relaxation with tea or hobbies.            |
+| 9:00 - 12:00 PM| Attend Algorithms and Data Structures.     |
+| 12:00 - 12:30 PM| Lunch, enjoy light music.                 |
+| 12:30 - 2:00 PM | Review and organize notes.                |
+| 2:00 - 4:00 PM | Light programming tasks or group work.     |
+| 4:00 - 6:00 PM | Attend Language Arts class.                |
+| 6:00 - 7:00 PM | Dinner and unwind with a favorite show.    |
+| 7:00 - 8:30 PM | Gaming or creative cooking experiments.    |
+| 8:30 - 9:30 PM | Evening review or brainstorming.           |
+| 9:30 - 10:30 PM| Relax with tea or creative reading.        |
+| 10:30 PM - 6:00 AM| Sleep.                                  |
+
+---
+
+### Friday
+
+| 6:00 - 6:30 AM | Wake up, freshen up, and enjoy tea.        |
+| 6:30 - 7:00 AM | Breakfast, light reading.                  |
+| 7:00 - 8:30 AM | Prepare for final classes or projects.     |
+| 8:30 - 9:00 AM | Tea time and relaxing activities.          |
+| 9:00 - 12:00 PM| Attend final lectures for the week.        |
+| 12:00 - 12:30 PM| Lunch, unwind with a favorite dish.       |
+| 12:30 - 2:00 PM | Prep for weekend tasks or self-study.     |
+| 2:00 - 4:00 PM | Attend Mathematics lecture.                |
+| 4:00 - 5:00 PM | Wrap up weekly assignments.                |
+| 5:00 - 6:00 PM | Dinner and reflection on the week.         |
+| 6:00 - 8:00 PM | Gaming or unwinding with a show.           |
+| 8:00 - 9:30 PM | Organize notes and weekend plans.          |
+| 9:30 - 10:30 PM| Relax with tea or hobbies.                 |
+| 10:30 PM - 6:00 AM| Sleep.                                  |
+
+---
+
+### Saturday
+
+| 7:00 - 7:30 AM | Wake up, enjoy a slower morning with tea.  |
+| 7:30 - 8:30 AM | Make a special breakfast, like pancakes.   |
+| 8:30 - 10:00 AM| Play video games or explore a new hobby.   |
+| 10:00 - 12:00 PM| Work on personal coding projects.          |
+| 12:00 - 12:30 PM| Lunch with a light and refreshing dish.   |
+| 12:30 - 2:30 PM | Go for a drive or explore a scenic route. |
+| 2:30 - 4:00 PM | Watch a favorite series or anime.          |
+| 4:00 - 5:00 PM | Experiment with baking or cooking.         |
+| 5:00 - 6:30 PM | Prepare a creative dinner and enjoy it.    |
+| 6:30 - 8:00 PM | Play video games with friends online.      |
+| 8:00 - 9:30 PM | Reflect on the week, organize plans.       |
+| 9:30 - 10:30 PM| Relax with tea or light reading.           |
+| 10:30 PM - 7:00 AM| Sleep.                                  |
+
+---
+
+### Sunday
+
+| 7:00 - 7:30 AM | Wake up, enjoy tea and relax.              |
+| 7:30 - 8:30 AM | Make a simple breakfast.                   |
+| 8:30 - 10:00 AM| Review notes or prep for the upcoming week.|
+| 10:00 - 12:00 PM| Work on fun programming projects.          |
+| 12:00 - 1:00 PM | Cook a hearty lunch and enjoy it.         |
+| 1:00 - 3:00 PM | Relax with a favorite movie or series.     |
+| 3:00 - 4:30 PM | Go for a relaxing drive.                   |
+| 4:30 - 6:00 PM | Finalize weekly tasks or prep assignments. |
+| 6:00 - 7:00 PM | Prepare and enjoy a delicious dinner.      |
+| 7:00 - 8:30 PM | Play casual games or chat with friends.    |
+| 8:30 - 9:30 PM | Reflect and write down plans for the week. |
+| 9:30 - 10:30 PM| Relax with tea or read a book.             |
+| 10:30 PM - 7:00 AM| Sleep.                                  |
