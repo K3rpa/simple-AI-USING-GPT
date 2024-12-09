@@ -1,6 +1,6 @@
-#simple-AI-USING-GPT
+# simple-AI-USING-GPT
 
-##Introduction
+## Introduction
     *this simple project is using openai gpt model(Large language model) to generate answer
     *you will need to replace your real API token here client = OpenAI(api_key="Your OpenAI Token") in example.py
     *systemrole.txt is where you can adjust your role giving to the model
