@@ -7,6 +7,29 @@ import datetime
 client = OpenAI(
     api_key="Your OpenAI Token"
 )
+def load_chat_history(chat_history_file):
+    try:
+        with open(chat_history_file, "r") as file:
+            raw_history = file.read().strip()
+
+        parsed_history = []
+        conversations = raw_history.split("--------------------------------------------------")
+
+        for conversation in conversations:
+            lines = conversation.strip().split("\n")
+            if len(lines) >= 2:
+                user_line = lines[0].replace("User: ", "").strip()
+                gpt_line = lines[1].replace("GPT: ", "").strip()
+                parsed_history.append({"role": "user", "content": user_line})
+                parsed_history.append({"role": "assistant", "content": gpt_line})
+
+        return parsed_history
+    except FileNotFoundError:
+        print(f"Error: {chat_history_file} not found. Returning empty list.")
+        return []
+    except Exception as e:
+        print(f"An error occurred while loading chat history: {e}")
+        return []
 
 def load_file(file_path):
     try:
@@ -160,10 +183,11 @@ def chat_loop():
     chat_history_file = "chat_history.txt"
     schedule_file_path = "John_Lin_Weekly_Schedule.json"
     schedule_content = load_json(schedule_file_path)
-
+    history_file = load_chat_history("chat_history.txt")
     chat_context = [
         {"role": "system", "content": system_role}
     ]
+    chat_context.extend(history_file)
 
     while True:
         question = input("Enter your question (or type 'exit' to quit): ").strip()
